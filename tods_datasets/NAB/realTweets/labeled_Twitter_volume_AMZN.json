@@ -1,0 +1,54 @@
+{
+    "about": {
+        "datasetID": "NAB_dataset_TRAIN",
+        "datasetName": "NAB dataset",
+        "description": "...",
+        "license": "...",
+        "source": "...",
+        "sourceURI": "...",
+        "approximateSize": "...",
+        "datasetSchemaVersion": "1.0.0",
+        "redacted": false,
+        "datasetVersion": "1.0.0"
+    },
+    "dataResources": [
+        {
+            "resID": "learningData",
+            "resPath": "tables/learningData.csv",
+            "resType": "table",
+            "resFormat": {
+                "text/csv": [
+                    "csv"
+                ]
+            },
+            "isCollection": false,
+            "columns": [
+                {
+                    "colIndex": 0,
+                    "colName": "timestamp",
+                    "colType": "integer",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 1,
+                    "colName": "value",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 2,
+                    "colName": "ground_truth",
+                    "colType": "integer",
+                    "role": [
+                        "suggestedTarget"
+                    ]
+                }
+            ],
+            "columnsCount": 3
+        }
+    ]
+}
