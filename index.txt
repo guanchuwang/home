@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!-- saved from url=(0032) ./ -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="eye-protector-processed" style="background-color: rgb(193, 230, 198);"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
+<link rel="stylesheet" href="./index_files/jemdoc.css" type="text/css">
+<script src="./index_files/hm.js.下载"></script><script src="./index_files/hm.js(1).下载"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?488451aaf2994d09812abc2b6b4c95d8";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script type="text/javascript" src="./index_files/jquery-1.12.4.min.js.下载"></script><style id="tsbrowser_video_independent_player_style" type="text/css">
+      [tsbrowser_force_max_size] {
+        width: 100% !important;
+        height: 100% !important;
+        left: 0px !important;
+        top: 0px !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        transform: none !important;
+      }
+      [tsbrowser_force_fixed] {
+        position: fixed !important;
+        z-index: 9999 !important;
+        background: black !important;
+      }
+      [tsbrowser_force_hidden] {
+        opacity: 0 !important;
+        z-index: 0 !important;
+      }
+      [tsbrowser_hide_scrollbar] {
+        overflow: hidden !important;
+      }
+      [tsbrowser_display_none] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+      }
+      [tsbrowser_force_show] {
+        display: black !important;
+        visibility: visible !important;
+        opacity: 0;
+      }</style></head><body class="eye-protector-processed" style="background-color: rgb(193, 230, 198); transition: background-color 0.3s ease 0s;"><font size="4" face="Times">
+<title>Guanchu Wang</title>
+
+<link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
+<h1>Guanchu Wang <font family="FangSong">(王冠楚)</font></h1>
+
+<table class="imgtable"><tbody><tr>
+<td><img src="./photo.jpg" alt="left" width="300px">&nbsp;</td>
+<td align="left">
+<p>PhD. Student<br>
+  Electrical & Computer Engineering<br>
+  Texas A&M University <br>
+  <br> 
+  <!-- Address: No. 443, Huangshan Road, Hefei, Anhui, 230027, China <br> -->
+  Email: hegsns@tamu.edu <br>
+  Phone: (+86)15256975943 <br><br>
+  Here is my <a href="./Guanchu_Wang_CV.pdf"><font color="red">[CV]</font></a>, 
+  and my sites on 
+  <a href="https://scholar.google.com.hk/citations?hl=zh-CN&amp;user=_QL5218AAAAJ&amp;view_op=list_works&amp;gmla=AJsN-F7UkwAQmfFfQiz3buU8SrBVZbMaiIUgCfv-QfFpvB_rrtKkxf-mDhXkEDi6k-62VGtPUbAowuKyG-eX9mI4EobF7qSChMZ4wRSBr6iz0Gz82qbn6rY"><font color="red">[Google Scholar]</font></a>,
+  <a href="https://dblp.uni-trier.de/pers/hd/w/Wang:Guanchu"><font color="red">[DBLP]</font></a>, 
+  <a href="https://www.researchgate.net/scientific-contributions/2137741000_Guanchu_Wang"><font color="red">[ResearchGate]</font></a>. 
+</p>
+</td>
+</tr></tbody></table>
+
+<h2>About me</h2>
+
+&nbsp;&nbsp;&nbsp;&nbsp; I am currently a PhD. student in Texas A&M University DATA LAB supervised by Professor <a href="http://faculty.cs.tamu.edu/xiahu/"><font color="red">Prof. Xia Hu</font></a>.
+	My research involves anomaly detection, machine learning and deep reinforcement learning.
+	Before joining TAMU, I was working as a research assistance in the Machine Intellignece Lab (Professor <a href="https://dblp.org/pers/w/Wang:Donglin.html"><font color="red">Donglin Wang</font></a> group) in <a href="https://www.wias.org.cn/english/"><font color="red">Westlake university</font></a>.
+	From 2012 to 2019, I recevied B.S. degree from <a href="http://en.dlut.edu.cn/"><font color="red">Dalian University of Technology (DUT)</font></a> 
+	and M.S. degree from <a href="http://en.ustc.edu.cn/"><font color="red">University of Science and Technology of China (USTC)</font></a>, where I was fortunate for having been supervised by Prof. <a href="https://dblp.org/pers/hd/g/Gong_0001:Chen"><font color="red">Chen Gong</font></a>.
+
+<!--
+and my research topics include <font color="red">signal processing, multiple access communication and media access control</font>.
+I am a post graduate student from department of Electronics &amp; Communication Engineering (ECE) at <a href="http://en.ustc.edu.cn/"><font color="red">University of Science and Technology of China (USTC)</font></a>.
+My researches involve reforce learning, signal process, radio charging, wireless communication and networks. 
+Furthermore, I have broad interests in optimization and decision. 
+	
+<br> &nbsp;&nbsp;&nbsp;&nbsp; In 2016.9, I joined USTC ECE, where I was fortunate for having been directed by Prof. <a href="https://dblp.org/pers/hd/g/Gong_0001:Chen"><font color="red">Chen Gong</font></a>,
+and my research topics include <font color="red">signal processing, multiple access communication and media access control</font>.
+Before this, I finished my undergraduate study in <a href="http://en.dlut.edu.cn/"><font color="red">Dalian University of Technology (DUT)</font></a>, 
+where my researches focused on automatic driving of photoelectrical smart car.
+-->
+
+<!--
+<br> &nbsp;&nbsp;&nbsp;&nbsp; From 2019.7 to 2019.9, I was working as an intern in Magcharging Inc.
+There I was fortunate being directed by Prof. <a href="https://en.wikipedia.org/wiki/Xiaodong_Wang_(electrical_engineer)"><font color="red">Xiaodong Wang</font></a> from Columbia University
+and finished a prototype machine of <font color="red">radio frequency wireless charging system</font>.
+From 2019.10 to 2020.1, I was working as a research assistance in the Machine Intellignece Lab in <a href="https://www.wias.org.cn/english/"><font color="red">Westlake university</font></a>,
+where I was fortunate being supervised by Prof. <a href="https://dblp.org/pers/w/Wang:Donglin.html"><font color="red">Donglin Wang</font></a>, and my research focused on <font color="red">deep reinforcement learning</font>.
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Starting from Fall 2020, I will be one of PhD. students in department of <a href="https://engineering.tamu.edu/electrical/index.html">Electrical & Computer Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a>. 
+	It's my honor to be directed of <a href="http://faculty.cs.tamu.edu/xiahu/"><font color="red">Prof. Xia Hu</font></a>, and my current research focus on anomaly detection, deep reinforcement learning and autoML.
+
+	
+<h2>What's New</h2>
+<ol>
+<li> Opensource package 'TODS' for end-to-end time-series outlier detection has been online! <a href="https://github.com/datamllab/tods"><font color="red">[Github]</font></a>
+</li>
+<li> Our work 'Independent Skill Transfer for Deep Reinforcement Learning' is accepted by IJCAI 2020 (Accepted rate 12.6%)!
+</li>
+<br>
+</ol>
+
+-->
+	
+<h2>Education Experiences</h2>
+
+<ol>
+<li><b>From 2020.9 to now</b>: PhD. student, <a href="https://engineering.tamu.edu/electrical/index.html">Electrical & Computer Engineering</a>, <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a>. 
+</li>	
+
+<div id="ustc_edu" style="cursor:pointer;color:black" onclick="document.all.ustc_edu_ch1.style.display=(document.all.ustc_edu_ch1.style.display =='none')?'':'none'" >	
+<li><b>From 2016.9 to 2019.6</b>: M.S., <a href="http://en.sist.ustc.edu.cn/">Information Science and Technology</a>, <a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>. 
+</div>
+<div id="ustc_edu_ch1" style="display:none">
+<b>•&nbsp; GPA</b>: 3.5/4.3 <a href=" ./Master_GPA.pdf"><font color="red">[Details]</font></a>.
+<br><b>•&nbsp; TOEFL</b>: 99/120 (Listening:25/30 Reading:26/30 Writing:27/30 Speaking:21/30) <a href=" ./TOEFL.pdf"><font color="red">[Details]</font></a>.
+<br><b>•&nbsp; GRE</b>: 323 + 3.5 (Verbal:153 Quantitative:170 Writing:3.5) <a href=" ./GREscore.pdf"><font color="red">[Details]</font></a>.<br>
+</li>
+<br>
+</div>
+
+<div id="dlut_edu" style="cursor:pointer;color:black" onclick="document.all.dlut_edu_ch1.style.display=(document.all.dlut_edu_ch1.style.display =='none')?'':'none'" >	
+<li><b>From 2012.9 to 2016.6</b>: B.S., <a href="http://ice.dlut.edu.cn/Home.htm">Information and Communication Engineering</a>, <a href="http://en.dlut.edu.cn/">Dalian University of Technology (DUT)</a>.
+</div>
+<div id="dlut_edu_ch1" style="display:none">
+<b>•&nbsp; GPA</b>: 3.8/4.0 (TOP 3%) <a href=" ./Bachelor_GPA.pdf"><font color="red">[Details]</font></a>.<br>
+</div>
+
+</li>
+</ol>
+
+<h2>Working Experiences</h2>
+
+<ol>
+<li><b>From 2020.9 to now</b>: Graduate research assistance, DATA LAB, Texas A&M University, USA.
+<br>
+</li><li><b>From 2019.9 to 2020.1</b>: Research assistance, Westlake University, Hangzhou, P.R.C.
+<br>
+</li><li><b>From 2019.7 to 2019.9</b>: Researcher, Magcharging Inc., Shenzhen, P.R.C.
+<br>
+</li></ol>
+	
+<h2>Research Experiences</h2>
+<ol>
+	
+<li><b>DATA Lab</b> in Texas A&M Universit, working promotely, 2020.2 - present.</li>
+<p><b>•&nbsp; Anomaly Detection.</b></p>
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./ad.jpg" alt="left" width="240px">&nbsp;</td>
+<td align="left"> Update...
+</td>
+</tr></tbody></table>
+<br>
+
+<div id="westlake" style="cursor:pointer;color:black" onclick="document.all.westlake_ch.style.display=(document.all.westlake_ch.style.display =='none')?'':'none'" >
+<li><b>Machine Intellignece Lab</b> in Westlake University, Hangzhou, P.R.C., Research assistance, 2019.10 - 2020.1.</li></div>
+
+<div id="westlake_ch" style="display:none">
+<p><b>•&nbsp; Deep Reinforcement learning.</b></p>	
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./HCA.gif" alt="left" width="240px">&nbsp;
+<br><img src=" ./HCU.gif" alt="left" width="240px">&nbsp;</td>
+<td align="left">We use deep reinforcement learning to design efficient algorithms for skill transfer and transition.
+In skill transfer, the agent learns task-independent primitive skills in source environments, and re-utilize the skills in target environemnts;
+while in skill transtion, the agent manage to transition between multiple skills in order to accomplish specific complex task.
+Both skill transfer and transtion can greatly enhance the learning efficiency and generalization ability in comparison to conventional RL algorithms.
+
+<p><b>Papers:</b></p>
+<ul>
+<li> Independent Skill Transfer for Deep Reinforcement Learning. <a href="https://www.ijcai.org/Proceedings/2020/0401.pdf"><font color="red">[PDF]</font></a> <a href="
+https://github.com/qxtian/Learning-Independent-SKills"><font color="red">[Github]</font></a><br>
+	<!--<a href="https://github.com/HeGsnS/Learning-Independent-SKills"><font color="red">[code]</font></a><br> -->
+</li>
+<li> Learning Transitional Skills with Intrinsic Motivation.<br>
+</li>
+</td>
+</tr></tbody></table>
+<br>
+</div>
+	
+<div id="magcharging" style="cursor:pointer;color:black" onclick="document.all.magcharging_ch.style.display=(document.all.magcharging_ch.style.display =='none')?'':'none'" >
+<li><b>Magcharging Inc.</b>, Shenzhen, P.R.C., Intern, 2019.7 - 2019.9.</li></div>
+<div id="magcharging_ch" style="display:none">
+<p><b>•&nbsp; Ratio frequency wirless charging.</b></p>	
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./RFC.png" alt="left" width="240px">&nbsp;</td>
+<td align="left">
+We realize a prototype machine of ratio frequency wireless charging system.
+In transmitter-side, two USRPs are utilized to control three directional antennas for energy emission;
+in receiver-side, an intergrated device including an RF harvester and an RF-DC convertor is exploited
+for energy havesting.
+We also build a backscattering link for real-time optimization of transmitted signal 
+based on blind adaptive beamforming algorithm.
+The receiver-side power is up to 12mW at the distance of 2m and 6mW at 3m.
+Specifically, it includes the techniques:
+<br>
+&nbsp;&nbsp; - MIMO, blind adaptive beamforming.
+<br>
+&nbsp;&nbsp; - Backscattering communication.
+<br>
+Here is our real-time video: <b><a href="  ./3nt2m.mp4">Triple-antenna 2m</a></b>, <b><a href="  ./3nt3m.mp4">Triple-antenna 3m</a></b>.
+</td>
+</tr></tbody></table>
+</div>
+	
+<div id="ustc_owc" style="cursor:pointer;color:black" onclick="document.all.ustc_owc_ch1.style.display=(document.all.ustc_owc_ch1.style.display =='none')?'':'none'" >
+<li><b> Optical Wireless Communication and Network Center </b> in USTC, Anhui, P.R.C., Postgraduate Student, 2016.9 - 2019.6.
+</li></div>
+<div id="ustc_owc_ch1" style="display:none">
+<p><b>•&nbsp; Optical network system:</b></p>
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./OWLAN.jpg" alt="left" width="240px">&nbsp;</td>
+<td align="left">
+The conventional media access control of wireless local area network (WLAN) can hardly support 
+the transmission of big-data in the future, 
+and the upcoming optical network tends to be accessed in a multipoint pattern for big-data transmission.
+We devise a doub-station access protocol based on CSMA/CA (DS-CSMA/CA) for optical wireless local area
+network (OWLAN), and propose the the algorithm to numerically maximize the throughput versus initial
+contention window and partner distribution map.
+<p><b>Paper:</b>
+A Double-station Access Protocol for Optical Wireless Scattering Communication Networks. <i></i> <a href="https://arxiv.org/pdf/1902.08457.pdf"><font color="red">[ArXiv]</font></a><br>
+</p>
+</td>
+</tr></tbody></table>
+
+<p><b>•&nbsp; Multiple access system:</b></p>
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./turbo_processing1_total.png" alt="left" width="250px">&nbsp;</td>
+<td align="left">
+We study the physical-layer characteristics of multiple access for weak signal optical communication including
+multi-user and multi-layer communications, where the scenairo of multi-user communication is single transmiter to multiple receivers 
+and multiple transmitters to mulitple receivers;
+and that of multi-layer communication is to simutaneously transmit several types of serives with different rates. 
+<p><b>Papers:</b></p>
+<ul>
+<li> Signal Characterization for Multiple Access Non-line of Sight Scattering Communication. <a href="https://ieeexplore.ieee.org/abstract/document/8351977"><font color="red">[PDF]</font></a><br> 
+</li>
+<li> Multi-layer Superimposed Transmission for Optical Wireless Scattering Communication. <a href="https://ieeexplore.ieee.org/document/8845642"><font color="red">[PDF]</font></a><br>
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+<!--
+Furthermore, it includes the techneques:
+<br>
+&nbsp;&nbsp; - Numerical optimization of multiple access achievable rates.
+<br>
+&nbsp;&nbsp; - Multi-user estimation, signal processing, correcting code.
+<br>
+&nbsp;&nbsp; - Hidden Markov Model.
+-->
+
+<p><b>•&nbsp; Weak signal optical communication:</b></p>
+<table class="imgtable"><tbody><tr>
+<td><img src=" ./frame_structure.png" alt="left" width="250px">&nbsp;</td>
+<td align="left">
+We set up a real-time weak signal optical communication system via photon counting, digitial signal processing and error correcting encoding&decoding based on FPGA.
+The throughput is up to 1Mbps over 1km non-line of sight transmission link (most advanced over the world at that time).
+<p><b>Paper:</b>
+A 1Mbps Real-time NLOS UV Scattering Communication System with Receiver Diversity over 1km. <a href="https://ieeexplore.ieee.org/document/8332484/"><font color="red">[PDF]</font></a> <br>
+</p>
+</td>
+</tr></tbody></table>
+</div>
+	
+<!-- 
+<br>
+&nbsp;&nbsp; - Photon conunting technology.
+<br>
+&nbsp;&nbsp; - Digital signal processing (synchronization, estimation &amp; symbol detection).
+<br>
+&nbsp;&nbsp; - Error correcting code (convolutional, RS, LDPC code).
+-->
+
+
+</ol>
+
+<h2>Publications &amp; Preprints</h2> 
+
+<p><b>Preprints:</b></p>
+<ol>
+<!-- <li>Qiangxing Tian, Jinxin Liu, <b>Guanchu Wang</b>, and Donglin Wang, "Learning Transitional Skills with Intrinsic Motivation."<br> 
+</li> -->
+<li><b>Guanchu Wang</b>, Chen Gong, Zhimeng Jiang, and Zhengyuan Xu, "A Double-station Access Protocol for Optical Wireless Scattering Communication Networks." <i></i> <a href="https://arxiv.org/pdf/1902.08457.pdf"><font color="red">[ArXiv]</font></a><br>
+</li>
+<li>Zhimeng Jiang, Chen Gong, <b>Guanchu Wang</b>, and Zhengyuan Xu, "On the Achievable Rate and Capacity for a Sample-based Practical Photon-counting Receiver." <i></i> <a href="https://arxiv.org/pdf/1901.06218.pdf"><font color="red">[ArXiv]</font></a> <br>
+</li>
+</ol>
+<p><b>Conference Publications:</b></p>
+<ol>
+<li> Kwei-Herng Lai*, Daochen Zha*, <b>Guanchu Wang</b>, Junjie Xu, Yue Zhao, Devesh Kumar, Yile Chen, Purav Zumkhawaka, Minyang Wan, Diego Martinez, Xia Hu, "TODS: An Automated Time Series Outlier Detection System."
+<i>AAAI Conference on Artificial Intelligence</i>, demo track, AAAI 2021. <a href="https://arxiv.org/pdf/2009.09822v2.pdf"><font color="red">[PDF]</font></a> <a href="https://github.com/datamllab/tods"><font color="red">[Github]</font></a><br>
+</li>	
+<li>Qiangxing Tian, <b>Guanchu Wang</b>, Jinxin Liu, and Donglin Wang, "Independent Skill Transfer for Deep Reinforcement Learning." <i>International Joint Conference on Artificial Intelligence & Pacific Rim International Conference on Artificial Intelligence</i>, IJCAI 2020 (Accepted rate 12.6%). <a href="https://www.ijcai.org/Proceedings/2020/0401.pdf"><font color="red">[PDF]</font></a> <a href="
+https://github.com/qxtian/Learning-Independent-SKills"><font color="red">[Github]</font></a><br>
+</li>
+<li>Zhimeng Jiang, Chen Gong, <b>Guanchu Wang</b>, and Zhengyuan Xu, "Achievable Rate Bounds on Poisson Channel with a Sample-based Practical Photon-counting Receiver." <i>IEEE International Conference on Communications</i>(<i>ICC</i>), May, 2019. <a href=" ./"><font color="red">[PDF]</font></a> <br>
+</li>
+<li><b>Guanchu Wang</b>, Chen Gong, Zhimeng Jiang, Zhengyuan Xu, "Characterization on Asynchronous Multiple Access in Non-line of Sight Scattering Communication." <i>IEEE International Conference on Communications</i>(<i>ICC</i>), May, 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8403738/"><font color="red">[PDF]</font></a> <br>
+</li>
+<li><b>Guanchu Wang</b>, Chen Gong, and Zhengyuan Xu, "Signal detection and achievable rates for multiple access optical wireless scattering communication." <i>IEEE Global Communication Conference</i>(<i>Globecom</i>), Dec., 2017. <a href="https://ieeexplore.ieee.org/document/8254235/"><font color="red">[PDF]</font></a> <br>
+</li>
+</ol>
+<p><b>Journal Publications:</b></p>
+<ol>
+<li><b>Guanchu Wang</b>, Chen Gong, Zhimeng Jiang, and Zhengyuan Xu, "Multi-layer Superimposed Transmission for Optical Wireless Scattering Communication." <i>IEEE Photonics Journal</i>, vol. 11, no. 5, Oct. 2019 <a href="https://ieeexplore.ieee.org/document/8845642"><font color="red">[PDF]</font></a><br>
+</li>
+<li><b>Guanchu Wang</b>, Chen Gong, and Zhengyuan Xu, "Signal Characterization for Multiple Access Non-line of Sight Scattering Communication." <i>IEEE Transaction on Communication</i>, vol. 66, no. 9, pp. 4138-4154, Apr. 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8351977"><font color="red">[PDF]</font></a><br> 
+</li>
+<li><b>Guanchu Wang</b>, Kun Wang, Chen Gong, Difan Zou, Zhimeng Jiang, and Zhengyuan Xu, "A 1Mbps Real-time NLOS UV Scattering Communication System with Receiver Diversity over 1km." <i>IEEE Photonics Journal</i>, vol. 10, no. 2, Apr. 2018. <a href="https://ieeexplore.ieee.org/document/8332484/"><font color="red">[PDF]</font></a> <br>
+</li>
+</ol>
+
+<h2>Projects</h2>
+<ol>
+<li>TODS, 2020.5-now.
+</li>
+<li>Deep reinforencement learning for robotic controling, 2019.10-2020.1.
+</li>
+<li>Radio frequency wireless charging prototype-machine, Shenzhen Peacock Plan, 2019.8.
+</li>
+<li>Theory of optical wireless communication and network, National Key Basic Research Program of China (973 Program), 2016.9-2018.4.
+</li>
+</ol>
+
+<!--
+<h2>Academic Services</h2>
+<ol>
+<li> Journal/Conference Reviewer: IEEE Trans. Commun.; Trans. Wirel. Commun.; J. Lightwave Technol.; Commun. Lett., ICC Workshop. </li>
+<li> Participant: ShanghaiTech Workshop on Information, Learning and Decision, June 2018; 
+	International conference on Optical Wireless Communication, Beijing China, July 2017.                 </li>
+<li> Poster: IJCAI-PRICAI 2020 (upcoming online poster), IEEE ICC 2018, IEEE Globecom 2017.                   </li>
+<li> Visiting student, Institute of electronics, Chinese Academy of science, Beijing China, Aug. 2015.          </li>
+</ol>
+	
+<h2>Honors and Awards</h2>
+<ol>
+<li><b>Major Awards</b>, USTC, 2016, 2017, 2018.</li> 
+<li><b>Outstanding Graduate (top 4%)</b>, <a href="https://en.wikipedia.org/wiki/Dalian">Dalian</a>, 2016.</li> 
+<li><b>Outstanding Bachelor Thesis (top 5%)</b>, DUT, 2016.</li> 
+<li><b>National Second Prize</b>, China National Mathematical Modeling Contest, 2016.</li>
+<li><b>Honorable Mention</b>, Mathematical Contest in Modeling (MCM), 2016.</li>
+<li><b>Scholarship of Academic and Innovation</b>, DUT, 2013, 2014, 2015.</li>
+<li><b>Scholarship of <a href="https://www.sumitomocorp.com/ja/jp/about/company/profile"> Sumitomo Corporation</a></b>, DUT, 2013.</li> 
+</ol>
+	
+<h2>Key Skill</h2>
+<ol>
+<li>Python, Matlab, C++, Verilog.</li>
+<li>Numerical optimization, system simulation, and statistics.</li>
+<li>Python/Pytorch, Labview/USRP, Verilog/ISE/FPGA.</li>
+<li>Cooperation (Github online co-working) & teamwork & paper writing.</li>
+</ol>
+-->
+	
+<h2>Co-worker</h2>
+&nbsp;&nbsp; Qiuhui Pan (Professor in DLUT), Xiaonan Liu (King's College London current PhD.), Zhimengjiang (Texas A&M University current PhD.), 
+	Kaixiong Zhou (Texas A&M University current PhD.), Henry Lai (Texas A&M University current PhD.), Daochen Zha (Texas A&M University current PhD.),
+	Difan Zou (UCLA current PhD.), Jinxin Liu (Westlake University current PhD.), 
+	Chen Gong (Professor in USTC), Xiaodong Wang (Professor in Columbia University), Donglin Wang (Professor in Westlake University)
+<!--
+<br> Qiuhui Pan (Professor in DLUT),
+<br> Xiaonan Liu (King's College London current PhD.),
+<br> Zhimengjiang (Texas A&M University current PhD.), 
+<br> Kaixiong Zhou (Texas A&M University current PhD.), 
+<br> Difan Zou (UCLA current PhD.), 
+<br> Jinxin Liu (Westlake University current PhD.),
+<br> Chen Gong (Professor in USTC), 
+<br> Xiaodong Wang (Professor in Columbia University), 
+<br> Donglin Wang (Professor in Westlake University)
+	
+
+<h2>Hobbies</h2>
+<p>Badminton, Painting, Reading.</p> -->
+
+<h2>Views</h2>
+
+<a href="https://clustrmaps.com/site/1b1jj"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RiK-b9Y7LYnnYzmZdKqTFlM0x_lsOKPdVCtNmTTzi3o&cl=ffffff" /></a>
+	
+</font>
+
+
+<!--
+<li><b>Intelligent path planning for complexed system:</b></li>
+<table width="1300" height="279" class="imgtable"><tr>
+<td width="220"><img src=" ./IPP.jpg" alt="alt text" width="350"></td>
+<td width="1000" align="left">
+We implement decision-making algorithms for dynamic path planning in complex system,
+where in the time-varied map, multiple agents have different targets and can interact with one another,
+Since different agent's planning route may conflict with one another,
+the mechanism of decision-making has to take the variation of graphic structure 
+and other agents into consideration.
+Moreover, it includes the techniques: 
+<br />
+&nbsp&nbsp - Random backoff, Simulated anneling (SA), Q learning.
+</td></tr></table>
+
+<li><b>Indoor positioning and navigation for robot:</b></li>
+<table width="1300" height="279" class="imgtable"><tr>
+<td width="220"><img src=" ./POS.jpg" alt="alt text" width="350"></td>
+<td width="1000" align="left">
+We implement indoor positioning via VLC and navigation via path planning algorithm.
+The information for position is modulated into visible light which is transmitted from
+an indoor lamp to the robot, and the navigation has taken the indoor structure and environment into consideration.
+More specifically, it includes
+<br />
+&nbsp&nbsp - Graph theory.
+<br />
+&nbsp&nbsp - A star (A*) algorithm, D star (D*) algorithm, &Theta; star (&Theta;*) algorithm.
+<br />
+&nbsp&nbsp - Markov Decision Process(MDP), Q learning.
+<br />
+&nbsp&nbsp The positional accuracy is up to centimeter-level, and the navigation is real-time 
+updated according to the time-varied surrounding area.
+</td></tr></table>
+-->
+<div class="jvectormap-tip"></div></body></html>
